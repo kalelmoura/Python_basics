@@ -1,19 +1,20 @@
 import pyperclip, re
 
-text = pyperclip.pate()
+text = pyperclip.paste()
 
-patternObject = re.compile(''''
-
+patternObject = re.compile(r'''
+\+\d{2}\s\d{4}\s\d{6} 
+| 
+[^\s@]+@[^\s@]+\.[^\s@]+
 ''', re.VERBOSE)
-matchObject = patternObject.findall(text)
-foundMatches = matchObject.group()
+foundMatches = patternObject.findall(text)
 
-if foundMatches == False:
+
+if not foundMatches:
     pyperclip.copy("No matches found :(")
     print("No matches found :(")
 else:
-    pyperclip.copy(foundMatches)
-    print(foundMatches)
+    result = "\n".join(foundMatches)
 
-#just insert the right pattern, then check if it works and what could go wrong
-#then check answers agains automate-the-boting-stuff
+    pyperclip.copy(result)
+    print(result)
