@@ -1,3 +1,5 @@
+#find emails and phone numbers inside copied text (clipboard)
+
 import pyperclip, re
 
 text = pyperclip.paste()
