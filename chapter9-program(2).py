@@ -7,8 +7,6 @@ text = "The project started on 3/14/2030. The first review took place on 03-28-2
 
 patternObj = re.compile(r'(\d\d?\d?\d?).(\d\d?\d?\d?).(\d\d?\d?\d?)') # or \d{1,4}
 
-matches = patternObj.findall(text)
-
 formatedDates = patternObj.sub(r'\1/\2/\3', text)
 print(formatedDates)
 
