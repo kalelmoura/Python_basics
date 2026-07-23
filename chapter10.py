@@ -1,39 +1,24 @@
-import re
 from pathlib import Path
+import os
+file_path = Path('programing', 'Python', 'Automate_Boring_Stuff')
+print(file_path)
+
+print(file_path.is_absolute())
+
+absolute_file_path = file_path.absolute()
+
+print(absolute_file_path.is_absolute())
+
+print(Path.home())
+
+print(Path.cwd())
+
+os.chdir('/Users/gabrielkalel/programing/Python/Add_Time')
+print(Path.cwd())
 
 
-def create_mad_libs(input_filename: str, output_filename: str) -> None:
-    input_path = Path(input_filename)
-    output_path = Path(output_filename)
-
-    try:
-        text = input_path.read_text(encoding="utf-8")
-    except FileNotFoundError:
-        print(f"File not found: {input_filename}")
-        return
-
-    prompts = {
-        "ADJECTIVE": "Enter an adjective: ",
-        "NOUN": "Enter a noun: ",
-        "ADVERB": "Enter an adverb: ",
-        "VERB": "Enter a verb: ",
-    }
-
-    def replace_word(match: re.Match) -> str:
-        word_type = match.group()
-        return input(prompts[word_type])
-
-    completed_text = re.sub(
-        r"\b(ADJECTIVE|NOUN|ADVERB|VERB)\b",
-        replace_word,
-        text,
-    )
-
-    print("\nCompleted Mad Lib:\n")
-    print(completed_text)
-
-    output_path.write_text(completed_text, encoding="utf-8")
-    print(f"\nSaved to: {output_filename}")
+os.chdir('/Users/gabrielkalel/programing/Python/Automate_Boring_stuff')
+print(Path.cwd())
 
 
-create_mad_libs("madlibs.txt", "completed_madlibs.txt")
+
