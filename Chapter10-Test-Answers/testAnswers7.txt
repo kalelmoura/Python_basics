@@ -1,0 +1,50 @@
+Question 1: Juneau
+Question 2: Frankfort
+Question 3: Columbia
+Question 4: Salt Lake City
+Question 5: Austin
+Question 6: Honolulu
+Question 7: Helena
+Question 8: Pierre
+Question 9: Sacramento
+Question 10: Trenton
+Question 11: Oklahoma City
+Question 12: Providence
+Question 13: Madison
+Question 14: Columbus
+Question 15: Nashville
+Question 16: Little Rock
+Question 17: Santa Fe
+Question 18: Richmond
+Question 19: Phoenix
+Question 20: Bismarck
+Question 21: Harrisburg
+Question 22: Springfield
+Question 23: Olympia
+Question 24: Jefferson City
+Question 25: Indianapolis
+Question 26: Albany
+Question 27: Dover
+Question 28: Carson City
+Question 29: Charleston
+Question 30: Topeka
+Question 31: Raleigh
+Question 32: Jackson
+Question 33: Concord
+Question 34: Lincoln
+Question 35: Annapolis
+Question 36: Des Moines
+Question 37: Augusta
+Question 38: Saint Paul
+Question 39: Denver
+Question 40: Lansing
+Question 41: Salem
+Question 42: Boston
+Question 43: Tallahassee
+Question 44: Cheyenne
+Question 45: Atlanta
+Question 46: Boise
+Question 47: Montgomery
+Question 48: Montpelier
+Question 49: Baton Rouge
+Question 50: Hartford

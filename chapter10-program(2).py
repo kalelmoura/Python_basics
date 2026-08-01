@@ -26,21 +26,20 @@ def questions():
                 answer3 = state_capitals[random.randint(0,49)]
         answers = [answer1, answer2, answer3, answer4]
         random.shuffle(answers)
-        stringChoices = f"Choices for question {i+1}: {answers[0]}, {answers[1]}, {answers[2]} or {answers[3]}?"
+        stringChoices = f"{answers[0]}, {answers[1]}, {answers[2]} or {answers[3]}."
         tests[question] = stringChoices
         testAnswers[f"Question {i+1}"] = f"Question {i+1}: {answer4}"
     return tests, testAnswers
 
 for i in range(35):
-    testFile = open(f"/Users/gabrielkalel/programing/Python/Automate_Boring_stuff/Chap10-prog2-test&answers/test.txt{i+1}", 'w')
     test, testsAnswers = questions()
-    formatted_questions = "\n".join(test.keys())
-    formatted_answers = "\n".join(test.values())
-    testFile.write(formatted_questions + '\n' + formatted_answers)
+    testFile = open(f"/Users/gabrielkalel/programing/Python/Automate_Boring_stuff/Chapter10-Test-Answers/test{i+1}.txt", 'w')
+    for key, value in test.items():
+        testFile.write(key + '\n' + value + '\n')
     testFile.close()
-    answersFile = open(f"/Users/gabrielkalel/programing/Python/Automate_Boring_stuff/Chap10-prog2-test&answers/testAnswers.txt{i+1}", 'w')
+    answersFile = open(f"/Users/gabrielkalel/programing/Python/Automate_Boring_stuff/Chapter10-Test-Answers/testAnswers{i+1}.txt", 'w')
     formatted_testAnswers = "\n".join(testsAnswers.values())
-    answersFile.write(str(formatted_testAnswers))
+    answersFile.write(formatted_testAnswers)
     answersFile.close()
 
 # state can repeat multiple times
