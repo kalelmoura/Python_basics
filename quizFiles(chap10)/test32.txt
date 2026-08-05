@@ -1,0 +1,100 @@
+Question 1 What US Capital belongs to the State of Kansas?
+Indianapolis, Honolulu, Topeka or Frankfort.
+Question 2 What US Capital belongs to the State of West Virginia?
+Salt Lake City, Indianapolis, Charleston or Boston.
+Question 3 What US Capital belongs to the State of Wyoming?
+Annapolis, Lansing, Cheyenne or Hartford.
+Question 4 What US Capital belongs to the State of Georgia?
+Atlanta, Honolulu, Albany or Frankfort.
+Question 5 What US Capital belongs to the State of Maryland?
+Boise, Columbia, Tallahassee or Annapolis.
+Question 6 What US Capital belongs to the State of New Hampshire?
+Charleston, Concord, Pierre or Albany.
+Question 7 What US Capital belongs to the State of Minnesota?
+Frankfort, Charleston, Nashville or Saint Paul.
+Question 8 What US Capital belongs to the State of Vermont?
+Denver, Richmond, Juneau or Montpelier.
+Question 9 What US Capital belongs to the State of Maine?
+Hartford, Little Rock, Augusta or Des Moines.
+Question 10 What US Capital belongs to the State of Idaho?
+Albany, Boise, Raleigh or Denver.
+Question 11 What US Capital belongs to the State of Washington?
+Juneau, Santa Fe, Des Moines or Olympia.
+Question 12 What US Capital belongs to the State of Utah?
+Trenton, Salt Lake City, Boston or Atlanta.
+Question 13 What US Capital belongs to the State of Rhode Island?
+Augusta, Denver, Springfield or Providence.
+Question 14 What US Capital belongs to the State of Louisiana?
+Saint Paul, Baton Rouge, Cheyenne or Boise.
+Question 15 What US Capital belongs to the State of Pennsylvania?
+Honolulu, Harrisburg, Providence or Hartford.
+Question 16 What US Capital belongs to the State of Massachusetts?
+Trenton, Boston, Helena or Montpelier.
+Question 17 What US Capital belongs to the State of Hawaii?
+Oklahoma City, Madison, Honolulu or Columbia.
+Question 18 What US Capital belongs to the State of Indiana?
+Saint Paul, Indianapolis, Jackson or Columbus.
+Question 19 What US Capital belongs to the State of Wisconsin?
+Madison, Denver, Augusta or Nashville.
+Question 20 What US Capital belongs to the State of Tennessee?
+Atlanta, Nashville, Phoenix or Hartford.
+Question 21 What US Capital belongs to the State of Ohio?
+Columbus, Montgomery, Salem or Honolulu.
+Question 22 What US Capital belongs to the State of Arkansas?
+Montpelier, Cheyenne, Juneau or Little Rock.
+Question 23 What US Capital belongs to the State of Delaware?
+Madison, Dover, Boston or Jackson.
+Question 24 What US Capital belongs to the State of Arizona?
+Baton Rouge, Oklahoma City, Providence or Phoenix.
+Question 25 What US Capital belongs to the State of South Carolina?
+Sacramento, Boise, Columbia or Montpelier.
+Question 26 What US Capital belongs to the State of Virginia?
+Richmond, Austin, Montpelier or Cheyenne.
+Question 27 What US Capital belongs to the State of Kentucky?
+Columbus, Helena, Trenton or Frankfort.
+Question 28 What US Capital belongs to the State of North Carolina?
+Columbia, Raleigh, Jackson or Honolulu.
+Question 29 What US Capital belongs to the State of Mississippi?
+Topeka, Santa Fe, Jackson or Tallahassee.
+Question 30 What US Capital belongs to the State of Montana?
+Baton Rouge, Richmond, Pierre or Helena.
+Question 31 What US Capital belongs to the State of Alaska?
+Santa Fe, Juneau, Providence or Hartford.
+Question 32 What US Capital belongs to the State of Oregon?
+Salem, Helena, Boston or Indianapolis.
+Question 33 What US Capital belongs to the State of Nebraska?
+Lincoln, Baton Rouge, Trenton or Jefferson City.
+Question 34 What US Capital belongs to the State of Iowa?
+Oklahoma City, Trenton, Montpelier or Des Moines.
+Question 35 What US Capital belongs to the State of Alabama?
+Montgomery, Hartford, Raleigh or Bismarck.
+Question 36 What US Capital belongs to the State of Colorado?
+Saint Paul, Denver, Tallahassee or Trenton.
+Question 37 What US Capital belongs to the State of South Dakota?
+Pierre, Annapolis, Santa Fe or Salem.
+Question 38 What US Capital belongs to the State of New York?
+Charleston, Montgomery, Albany or Helena.
+Question 39 What US Capital belongs to the State of Texas?
+Topeka, Dover, Juneau or Austin.
+Question 40 What US Capital belongs to the State of Florida?
+Tallahassee, Providence, Austin or Nashville.
+Question 41 What US Capital belongs to the State of New Jersey?
+Dover, Trenton, Jackson or Columbia.
+Question 42 What US Capital belongs to the State of New Mexico?
+Albany, Columbia, Santa Fe or Sacramento.
+Question 43 What US Capital belongs to the State of Oklahoma?
+Honolulu, Oklahoma City, Pierre or Austin.
+Question 44 What US Capital belongs to the State of Michigan?
+Boise, Oklahoma City, Austin or Lansing.
+Question 45 What US Capital belongs to the State of Illinois?
+Dover, Springfield, Santa Fe or Montpelier.
+Question 46 What US Capital belongs to the State of California?
+Denver, Saint Paul, Cheyenne or Sacramento.
+Question 47 What US Capital belongs to the State of Connecticut?
+Hartford, Albany, Topeka or Atlanta.
+Question 48 What US Capital belongs to the State of Nevada?
+Frankfort, Cheyenne, Saint Paul or Carson City.
+Question 49 What US Capital belongs to the State of Missouri?
+Jefferson City, Atlanta, Concord or Denver.
+Question 50 What US Capital belongs to the State of North Dakota?
+Columbia, Bismarck, Jefferson City or Providence.
