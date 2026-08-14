@@ -1,6 +1,5 @@
 import shutil
 import os
-from send2trash import send2trash
 from pathlib import Path
 h = Path.home()
 print(h)
@@ -16,5 +15,5 @@ shutil.copy(h / '/Users/gabrielkalel/programing/Python/Automate_Boring_stuff/cha
 # shutil.move(h / '/Users/gabrielkalel/programing/Python/Automate_Boring_stuff/chapter11/spam/file1.txt', h / '/Users/gabrielkalel/programing/Python/Automate_Boring_stuff/chapter11/spam2')
 # shutil.rmtree('/Users/gabrielkalel/programing/Python/Automate_Boring_stuff/chapter11/spam2')
 # os.unlink('/Users/gabrielkalel/programing/Python/Automate_Boring_stuff/chapter11/spam/file2.txt')
-send2trash.send2trash('file1.txt')
+print(os.listdir(r'/Users/gabrielkalel/programing'))
 
