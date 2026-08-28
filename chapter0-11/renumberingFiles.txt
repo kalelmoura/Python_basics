@@ -1,0 +1,18 @@
+1) Imports: importing neccesarry methods
+
+2) creatFiles function: creates files from 1-120 skipping files numbered: 42, 86 and 103
+for loop - create files 1-120
+if statement - skipp files 42, 86 and 103
+with statement - create an open and close file cicle
+
+3) listSpamFiles: creates a list of files that start with "spam" 
+os.listdir - lists all files inside spam folder
+for loop -
+- len(files) + 2
+- if creates the number progression in the right format
+
+-> note: I can just annotate on the actuall code bro
+
+
+
+
