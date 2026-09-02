@@ -1,0 +1,13 @@
+import requests
+city_name = 'San Francisco'
+state_code = 'CA'
+country_code = 'US'
+API_key = '626e585a51d05a0cd67e8d6170af4e37'
+response = requests.get(f'https://api.openweathermap.org/geo/1.0/direct?q={city_name},{state_code},{country_code}&appid={API_key}')
+response.text  # This is a Python string.
+# '[{"name":"San Francisco","local_names":{"id":"San Francisco","lat":37.7790262,"lon":-122.419906,"country":"US","state":"California"}]'
+# -> in JSON - python reads them in dictionaries
+import json
+response_data = json.loads(response.text)
+response_data  # This is a Python data structure.
+# [{"name":"San Francisco","local_names":{"id":"San Francisco","lat":37.7790262,"lon":-122.419906,"country":"US","state":"California"}]
