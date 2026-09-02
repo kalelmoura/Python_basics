@@ -3,7 +3,7 @@ import requests
 response = requests.get(('https://automatetheboringstuff.com/files/rj.txt'))
 # Response object
 print(type(response))
-# True if succeeded | False if failed
+# True if download succeeded | False if download failed
 print(bool(response.status_code == requests.codes.ok))
 # how many characters the URL has
 print(len(response.text))
